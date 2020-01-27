@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "naseem put test",
+      "display_name": "izzat (updated)",
+      "description": "studying software development "
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "category": "put test",
+      "name": "javascript",
+      "display_name": "web development",
+      "description": "an amazing field to study"
+    }
+  ]
+}
